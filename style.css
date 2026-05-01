@@ -1,0 +1,25 @@
+.servicos-bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
+        url('./img/head-2.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
+        url('./img/head-2.png');
+    /* sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.sobre-bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
+        url('./img/head-2.png');
+    /* sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
